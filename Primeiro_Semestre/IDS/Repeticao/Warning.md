@@ -1,0 +1,1 @@
+Para arquivos que necessitam de entrada de dados, navegue ate a pasta do arquivo e execute no terminal o comando php nome-do-arquivo numeros-separados-por-espaco

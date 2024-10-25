@@ -1,6 +1,6 @@
 <?php
 
 $continue = 500;
-do {
+while ($continue >= 1) {
     echo $continue-- . "\n";
-} while ($continue >= 1);
+}
